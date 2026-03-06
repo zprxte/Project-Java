@@ -47,3 +47,6 @@
 3. คอมไพล์ไฟล์ Java ทั้งหมดด้วยคำสั่ง:
    ```bash
    javac Customer.java W13_Function.java W13_Project.java
+รันโปรแกรมผ่านคลาสหลัก
+   java W13_Project
+
