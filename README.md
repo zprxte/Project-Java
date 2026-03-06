@@ -48,8 +48,5 @@
    ```bash
    javac Customer.java W13_Function.java W13_Project.java
 รันโปรแกรมผ่านคลาสหลัก
-   `bash
+   ```bash
    java W13_Project
-
-   java W13_Project
-
